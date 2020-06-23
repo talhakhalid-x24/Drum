@@ -31,11 +31,11 @@ function makeSound(key){
             tom2.play();
         break;
         case "s":
-            var tom3 = new Audio('sounds/tom3.wav.mp3');
+            var tom3 = new Audio('sounds/tom3.aif.mp3');
             tom3.play();
         break;
         case "d":
-            var tom4 = new Audio('sounds/tom4.wav.mp3');
+            var tom4 = new Audio('sounds/tom4.aif.mp3');
             tom4.play();
         break;
         case "j":
